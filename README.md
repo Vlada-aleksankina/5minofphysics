@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <link href="" rel="stylysheet">
-<title>Конспекты по физике за 5 минут</title>
+
  </head>
 
 <body>
