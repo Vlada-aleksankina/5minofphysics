@@ -18,7 +18,7 @@
         <h2>Содержание сайта</h2>
 	<ul>
 	<li> <ol type="1"> 7 класс
-		<li> <a href="Введение.html">Введение</a> </li>
+		<li> <a href="https://github.com/Vlada-aleksankina/5minofphysics/tree/test/Введение.html">Введение</a> </li>
 		<li> Механические явления </li>
 		<li> Звуковые явления </li>
 		<li> Световые явления </li>
