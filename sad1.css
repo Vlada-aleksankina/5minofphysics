@@ -1,0 +1,92 @@
+body {
+color: white;
+    margin:10px;
+    padding:0px;
+    background: url(neon-lights-wallpaper_52683-46462.jpg) no-repeat;
+ background-size: 100%;
+ background-attachment:fixed;
+ }
+
+h1 {
+text-align: center;
+color: white;
+}
+
+nav {
+ width: 220px;
+ margin-top: 10px;
+ padding: 10px;
+ Float: left;
+ background: rgba(22,14,100,0.7);
+}
+
+ul {
+ list-style: none;
+ display: block;
+ margin:0px;
+ padding:0px;
+ text-decoration: none;
+ color: white;
+
+}
+
+h2, h3 {
+color: #F3A9FE;
+}
+
+a{
+ text-decoration: none;
+ color: white;
+}
+
+a:active {
+  color: white;
+}
+
+
+a:hover {
+  background: #8057DD;
+}
+
+
+a:visited {
+color: white;
+}
+
+
+ul li ul {
+display: none;
+position: absolute;
+width: 220px;
+margin-left: 200px;
+background: #8DD6ED;
+
+}
+
+ ul li:hover > ul {
+ display:block;
+}
+
+.pain {
+  width: 770px;
+ background: rgba(22,14,100,0.7);
+ margin-top: 0px;
+ padding: 10px;
+ margin-left: 250px;
+ display:block;
+}
+
+p {
+text-align: justify;
+}
+
+.pic {
+ Float: none;
+ text-align: center;
+}
+
+.hurt {
+ background: rgba(22,14,120,0.7);
+ padding: 10px;
+ margin-bottom: 15px;
+}
