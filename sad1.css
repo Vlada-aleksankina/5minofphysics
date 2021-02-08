@@ -114,3 +114,12 @@ i {
  padding: 10px;
  margin-bottom: 15px;
 }
+
+.end {
+ font-weight: bold;
+ background: #EC6BFE;
+ text-align: center;
+ float: none;
+ padding: 5px;
+
+}
