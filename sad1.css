@@ -84,6 +84,9 @@ text-align: justify;
  Float: none;
  text-align: center;
 }
+i {
+  text-align: right;
+}
 
 .hurt {
  background: rgba(22,14,120,0.7);
