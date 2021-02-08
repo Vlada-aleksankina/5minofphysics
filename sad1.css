@@ -105,7 +105,8 @@ background: #8057DD;
 }
 i {
   Float: none;
-    text-align: right;
+   font-weight: bold;
+   text-align: center;
    background: #8057DD; 
 }
 
