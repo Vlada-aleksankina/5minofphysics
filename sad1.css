@@ -104,7 +104,9 @@ background: #8057DD;
  text-align: center;
 }
 i {
-  text-align: right;
+  Float: none;
+    text-align: right;
+   background: #8057DD; 
 }
 
 .hurt {
