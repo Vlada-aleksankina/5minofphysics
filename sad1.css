@@ -80,6 +80,25 @@ p {
 text-align: justify;
 }
 
+dt {
+margin: 10px;
+padding: 10px;
+background: #8DD6ED;
+ font-size: 16;
+ font-weight: bold;
+   text-align: center;
+     float: none;
+}
+
+dl {
+margin: 10px;
+padding: 10px;
+background: #8057DD;
+ font-size: 16;
+ font-weight: bold;
+   text-align: center;
+     float: none;
+}
 .pic {
  Float: none;
  text-align: center;
