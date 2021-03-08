@@ -58,8 +58,8 @@ ul li ul {
 display: none;
 position: absolute;
 width: 220px;
-margin-left: 100px;
-background: #8DD6ED;
+margin-left: 35px;
+background: #6666FF;
 
 }
 
@@ -83,7 +83,7 @@ text-align: justify;
 dt {
 margin: 10px;
 padding: 10px;
-background: #8DD6ED;
+background: #FF0066;
  font-size: 16;
  font-weight: bold;
    text-align: center;
