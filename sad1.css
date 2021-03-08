@@ -45,7 +45,7 @@ a:active {
 
 
 a:hover {
-  background: #6600FF;
+  background: #3366FF;
 }
 
 
@@ -83,7 +83,7 @@ text-align: justify;
 dt {
 margin: 10px;
 padding: 10px;
-background: #FF0066;
+background: #6699FF;
  font-size: 16;
  font-weight: bold;
    text-align: center;
