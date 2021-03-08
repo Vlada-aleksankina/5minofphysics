@@ -57,7 +57,7 @@ color: white;
 ul li ul {
 display: none;
 position: absolute;
-width: 220px;
+width: 100px;
 margin-left: 200px;
 background: #8DD6ED;
 
